@@ -1,2 +1,2 @@
 <?php
-phpinfe();
+phpinfe()2;
